@@ -17,7 +17,9 @@ SciKitLearn will be used as the Machine Learning library to process our basketba
 Basketball is a sport where players usually tend to decline as they grow older but there are many players that still have good performances regardless of their age. Our machine learning model will take a look at multiple players performances as an example and demonstrate to team owners how the model can be useful and help them save money and know what players to trade or keep in the roster.
 
 ## Databases
-For now, we are considering the use of MongoDB as a flexible NoSQL database which can be managed with tools like Compass as a GUI for the data, as well as potential integration into tools like Flask if we consider it for future parts of the project. 
+For now, we are considering the use of MongoDB as a flexible NoSQL database which can be managed with tools like Compass as a GUI for the data, as well as potential integration into tools like Flask if we consider it for future parts of the project.
+
+![image](https://user-images.githubusercontent.com/96349827/168505239-9b2ec1b4-4cf3-4c84-909c-63c441f25558.png)
 
 ## Dashboard
 The current plan for creating a Dashboard will be taking the data we produce and using it in Tableau to display and share the data, as a flexible tool we can use with the data we have. We will be rexamining our needs and other possible ways to create a dashboard as we progress with the project.
