@@ -23,7 +23,6 @@ SciKitLearn will be used as the Machine Learning library to process our basketba
 ## Databases
 For now, we are considering the use of MongoDB as a flexible NoSQL database which can be managed with tools like Compass as a GUI for the data, as well as potential integration into tools like Flask if we consider it for future parts of the project.
 
-![image](https://user-images.githubusercontent.com/96349827/168505239-9b2ec1b4-4cf3-4c84-909c-63c441f25558.png)
 
 ## Dashboard
 The current plan for creating a Dashboard will be taking the data we produce and using it in Tableau to display and share the data, as a flexible tool we can use with the data we have. We will be rexamining our needs and other possible ways to create a dashboard as we progress with the project.
