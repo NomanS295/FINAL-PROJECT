@@ -12,12 +12,12 @@ Breast cancer is the second most common type of cancer in Canadian women, behind
 The purpose of our analysis is to study malignant(cancerous) and benign(non-cancerous) tumors. Using the information gathered paired with machine learning, we hope to predict weather a tumor is more likely to be malignant based on it's characteristics.
 
 ## Data Cleaning and Analysis
-For data cleaning an analysis, Pandas will be used in tools such as the Jupyter Notebook development environment in order to process and clean the data. The Kaggle NBA data as well as data extracted from basketball-reference.com are both in csv formats, which pandas offers easy ways to import and process the data with dataframes, doing things like easily checking for duplicates and missing data.
+For data cleaning and analysis, Pandas will be used in tools such as the Jupyter Notebook development environment in order to process and clean the data. The reference CSV pulled from the Kaggle database was largely complete for analysis, but Jpyter Notebook and Database software was used to confirm whether data was missing or needed further cleaning or adjustment.
 
  
 
 ## Machine Learning
-SciKitLearn will be used as the Machine Learning library to process our basketball data. With the kaggle data spanning many years and the individual player data, there should be a significant amount of data points in order to train the machine learning model for the players and test on data on other years. The target for our prediction will be predicting player's performance in the next year. To create one target data point for our model to predict, we will use "game score" which is a statistic used to try to encapsulate multiple aspects of a player's performance and incorporates multiple statistics in it's calculation. As we experiment with the datasets, the machine learning models employed and the process may change. 
+SciKitLearn will be used as the Machine Learning library to process our cancer data. Logistic regression is the main classification tool we use for the analysis of all the data going into the supervised ML model. Logistic Regression was the method used to analyze the data, further boosted and compared to other methods including Adaptive Boosting and Random Forest methods, although the boosting methods only showed minor improvements to the results of the initial linear regression.
 
 
 ## Databases
