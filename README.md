@@ -7,9 +7,9 @@
 
 Breast cancer is the second most common type of cancer in Canadian women, behind only skin cancer. While it can be found in men, it is a much rarer occurrence.  It is estimated that approximately 27,000 Canadian women will be diagnosed this year with breast cancer. 1 in 8 women are expected to develop breast cancer within their lifetime and 1 in 33 will die from it.
 
-##Refrences and Datasets 
+## Refrences and Datasets 
 
-![Link to the machine learning model dataset](https://www.kaggle.com/code/abhinavbhuyan/classification-xgboost-with-bayesian-optimization)
+[Link to the machine learning model dataset](https://www.kaggle.com/code/abhinavbhuyan/classification-xgboost-with-bayesian-optimization)
 
 [Link to the general research dataset](https://www.kaggle.com/code/sarwat182/breast-cancer-analysis/data)
 
