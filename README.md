@@ -7,6 +7,14 @@
 
 Breast cancer is the second most common type of cancer in Canadian women, behind only skin cancer. While it can be found in men, it is a much rarer occurrence.  It is estimated that approximately 27,000 Canadian women will be diagnosed this year with breast cancer. 1 in 8 women are expected to develop breast cancer within their lifetime and 1 in 33 will die from it.
 
+##Refrences and Datasets 
+
+![Link to the machine learning model dataset](https://www.kaggle.com/code/abhinavbhuyan/classification-xgboost-with-bayesian-optimization)
+
+[Link to the general research dataset](https://www.kaggle.com/code/sarwat182/breast-cancer-analysis/data)
+
+[Link to the google slides](https://docs.google.com/presentation/d/1fotAlGPDRyW_qi-WU9KC5ZwFHhCD2JULXEuIX8I3wA8/edit?usp=sharing)
+
 ### Purpose
 
 The purpose of our analysis is to study malignant(cancerous) and benign(non-cancerous) tumors. Using the information gathered paired with machine learning, we hope to predict weather a tumor is more likely to be malignant based on it's characteristics.
