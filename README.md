@@ -27,7 +27,7 @@ SciKitLearn will be used as the Machine Learning library to process our cancer d
 
 
 ## Databases
-For now, we are considering the use of MongoDB as a flexible NoSQL database which can be managed with tools like Compass as a GUI for the data, as well as potential integration into tools like Flask if we consider it for future parts of the project.
+We retrieved our databases from Kaggle. We donloaded as a csv and used a variety of tools to clean and prepare for the machine learing stage. We used pandas in the jupyter notebook as well as SQL.   
 
 
 ## Dashboard
