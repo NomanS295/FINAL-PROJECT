@@ -20,9 +20,7 @@ Breast cancer is the second most common type of cancer in Canadian women, behind
 The purpose of our analysis is to study malignant(cancerous) and benign(non-cancerous) tumors. Using the information gathered paired with machine learning, we hope to predict weather a tumor is more likely to be malignant based on it's characteristics.
 
 ## Data Cleaning and Analysis
-For data cleaning and analysis, Pandas will be used in tools such as the Jupyter Notebook development environment in order to process and clean the data. The reference CSV pulled from the Kaggle database was largely complete for analysis, but Jupyter Notebook and Database software was used to confirm whether data was missing or needed further cleaning or adjustment.
-
- 
+For data cleaning and analysis, we used Pandas in the Jupyter Notebook development environment to process and clean the data. The reference CSV was pulled from the Kaggle database and was largely complete for analysis. The Database was then imported into pgadmin where it was edited into a SQl file to be used in our Machine learning.   
 
 ## Machine Learning
 SciKitLearn will be used as the Machine Learning library to process our cancer data. Logistic regression is the main classification tool we use for the analysis of all the data going into the supervised ML model. Logistic Regression was the method used to analyze the data, further boosted and compared to other methods including Adaptive Boosting and Random Forest methods, although the boosting methods only showed minor improvements to the results of the initial linear regression.
