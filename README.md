@@ -20,7 +20,7 @@ Breast cancer is the second most common type of cancer in Canadian women, behind
 The purpose of our analysis is to study malignant(cancerous) and benign(non-cancerous) tumors. Using the information gathered paired with machine learning, we hope to predict weather a tumor is more likely to be malignant based on it's characteristics.
 
 ## Data Cleaning and Analysis
-For data cleaning and analysis, Pandas will be used in tools such as the Jupyter Notebook development environment in order to process and clean the data. The reference CSV pulled from the Kaggle database was largely complete for analysis, but Jpyter Notebook and Database software was used to confirm whether data was missing or needed further cleaning or adjustment.
+For data cleaning and analysis, Pandas will be used in tools such as the Jupyter Notebook development environment in order to process and clean the data. The reference CSV pulled from the Kaggle database was largely complete for analysis, but Jupyter Notebook and Database software was used to confirm whether data was missing or needed further cleaning or adjustment.
 
  
 
