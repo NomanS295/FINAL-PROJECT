@@ -50,7 +50,7 @@ The last model run was testing the Random Forest method. This method used 128 as
 ![AdaBoost](Images/RandomForest.png)
 
 ## Databases
-We retrieved our databases from Kaggle. We donloaded as a csv and used a variety of tools to clean and prepare for the machine learing stage. We used pandas in the Jupyter Notebook as well as SQL.   
+We retrieved our databases from Kaggle. We downloaded as a csv and used a variety of tools to clean and prepare for the machine learing stage. We used pandas in the Jupyter Notebook as well as SQL.   
 
 
 ## Dashboard
